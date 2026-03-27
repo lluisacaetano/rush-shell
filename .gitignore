@@ -1,0 +1,6 @@
+# Arquivos compilados
+*.o
+rush
+
+# macOS
+.DS_Store
